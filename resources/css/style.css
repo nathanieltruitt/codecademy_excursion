@@ -1,0 +1,59 @@
+html {
+  font-size: 16px;
+}
+
+* {
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: normal;
+}
+
+body {
+  margin: 0;
+  background-color: black;
+}
+
+h1,
+h2,
+p {
+  color: #fff;
+}
+
+header h1 {
+  font-size: 50px;
+  margin: 33.5px;
+}
+
+header a {
+  color: aquamarine;
+  margin: 21px;
+}
+
+header video {
+  display: block;
+  margin: 0 auto;
+}
+
+section h2 {
+  font-weight: 300;
+  font-size: 42px;
+}
+
+section p {
+  font-size: 21px;
+  color: Gray;
+}
+
+footer img {
+  margin: 20px 0;
+}
+
+footer a {
+  color: aquamarine;
+  margin: 21px;
+}
+
+.copyright p {
+  color: Gray;
+  text-align: right;
+}
